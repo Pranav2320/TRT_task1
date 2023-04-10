@@ -1,0 +1,50 @@
+
+.mainheading {
+color : rgb(2, 53, 255);
+font-family: 'Roboto Slab';
+font-size: 30px;
+padding-top: 25px;
+padding-bottom: 30px;
+}
+
+.inputMain{
+position: absolute;
+top: 20%;
+left: 32%;
+}
+
+.button{
+top: 100px;
+right : 0%;
+margin-right: 20px;
+}
+
+.mainAlert{
+    width: 50%;
+   left: 25%;
+   top: 150px;
+}
+
+.delBtn{
+    
+    left: 35%;
+    top: 150px;
+    color: rgb(245, 242, 242);
+    background-color: rgb(13, 14, 14);
+}
+
+#del{
+    background-color: #084298;
+    color: #b6d4fe;
+    top:5.5rem;
+   left: 20%;
+   padding: 6px;
+   
+}
+
+#delete{
+    top: 100px;
+    margin-left: 25px;
+    background-color: #084298;
+    color: #ffffff;
+}

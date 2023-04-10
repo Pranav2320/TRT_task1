@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Great+Vibes&family=Rajdhani:wght@600&family=Roboto+Slab:wght@300&family=Roboto:ital,wght@1,300;1,400;1,500;1,700&display=swap');
+
+.mainHome {
+    width : 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.923);
+}
+
+.mainHeading {
+    color : rgb(2, 53, 255);
+    font-family: 'Roboto Slab';
+    font-weight: bolder;
+    font-size: 50px;
+    padding-top: 250px;
+    padding-bottom: 30px;
+}
+
+.btn1{
+  background-color:rgb(13, 57, 84);
+  color: rgb(120, 225, 235);
+  border-radius: 10px;
+  width : 200px;
+  font-family: 'Barlow';
+  padding: 12px;
+  bottom: 350px;
+  right: 420px;
+  border: none;
+  font-size: 20px;
+}
+
+.btn1:hover{
+  box-shadow:inset 1px 2px 12px 1px rgb(50, 200, 226);
+}
+
+p{
+  color: white;
+  padding: 150px;
+  font-family: 'Rajdhani';
+  font-size: 14px;
+}
+
+.footer{
+  color: blue;
+  font-weight: 1rem;
+  font-family: 'Rajdhani';
+  font-size: 10px;
+}
